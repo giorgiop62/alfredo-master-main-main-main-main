@@ -18,7 +18,7 @@
                                         class="fa-brands fa-facebook-f"></i></a>
                                 <a class="nav-link text-light" href="https://www.instagram.com/alfredo_pumilia/"><i
                                         class="fa-brands fa-instagram"></i></a>
-                                <a class="nav-link text-light" href="https://www.youtube.com/watch?v=9jPcHhuZQ8Q"><i
+                                <a class="nav-link text-light" href="https://www.youtube.com/@Pumilia"><i
                                         class="fa-brands fa-youtube"></i></a>
                                 <a class="nav-link text-light"
                                     href="https://open.spotify.com/user/1174504297?si=f2b72c67d1d54f02"><i

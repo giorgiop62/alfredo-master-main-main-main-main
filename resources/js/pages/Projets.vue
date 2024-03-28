@@ -11,6 +11,16 @@ export default {
             <!-- Aggiunto flex-wrap e justify-content-center -->
             <div class="card" style="width: 18rem; margin-bottom: 20px;">
                 <!-- Aggiunto margin-bottom per la distanza tra le cards -->
+                <img src="../assets/ultimo.jpeg" class="card-img-top" alt="Hydruntum">
+                <div class="card-body">
+                    <h5 class="card-title"></h5>
+                    <h5 class="card-title">Miradois</h5>
+                    <p class="card-text">Uscita 29/03/2024</p>
+                    <a href="#" class="btn btn-dark">Ascolta su Spotify</a>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem; margin-bottom: 20px;">
+                <!-- Aggiunto margin-bottom per la distanza tra le cards -->
                 <img src="../assets/album1.png" class="card-img-top" alt="Majacosajusta">
                 <div class="card-body">
                     <h5 class="card-title">Majacosajusta</h5>

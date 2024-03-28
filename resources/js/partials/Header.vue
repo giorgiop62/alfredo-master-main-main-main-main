@@ -52,7 +52,7 @@ export default {
                                     class="fa-brands fa-instagram"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-light" href="https://www.youtube.com/watch?v=9jPcHhuZQ8Q"><i
+                            <a class="nav-link text-light" href="https://www.youtube.com/@Pumilia"><i
                                     class="fa-brands fa-youtube"></i></a>
                         </li>
                         <li class="nav-item">
